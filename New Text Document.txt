@@ -1,0 +1,45 @@
+1. Trình bày được một web app thông thường sẽ hoạt động thế nào.
+
+2. Trình bày được hiểu biết về Request và Response.
+
+3. Trình bày được cơ chế hoạt động của event loop và event listener trong việc xử lý sự kiện xảy ra.
+
+4. Tạo được một Web server sử dụng node.js, sử dụng được một số module cơ bản của Node.
+
+5. Trình bày được định nghĩa / tính chất, nêu được các ví dụ sử dụng Clean Code.
+
+6. Biết cách sử dụng các công cụ debug Node.JS trong VSCode.
+
+7. Trình bày được Express.js là gì.
+
+8. Thực hành được với middleware, request, response và routing trong Express.js.
+
+9. Thực hành được trả về HTML page (file) trong Express.js.
+
+10. Trình bày được cách quản lý data (trong ứng dụng, không phải với database).
+
+11.Trình bày được Templating Engine là gì, thực hành được Render nội dung động.
+
+12. Trình bày được MVC là gì.
+
+13. Thực hành được truyền tham số thông qua route, query.
+
+14. Trình bày được hướng để mở rộng và làm việc với model.
+
+15. Phân biệt được Relational SQL và NoSQL. Thực hành được sử dụng SQL trong ứng dụng Node.js.
+
+16. Thực hành được sử dụng MongoDB với Mongoose.
+
+17. Trình bày được cách sử dụng, các tính năng Cookie / Session.
+
+18. Trình bày được làm thế nào để đăng nhập và duy trì đăng nhập, bảo mật hệ thống cơ bản thông qua sử dụng xác thực..
+
+19. Trình bày được tại sao lại cần validate và thực hành được validate
+
+20. Trình bày được phân loại lỗi, thực hành được kiểm soát lỗi.
+
+21. Thực hành được tải file lên server và tải file về client.
+
+22. Trình bày được cơ chế để phân trang.
+
+23. Phân biệt và hiểu ý nghĩa sử dụng của hàm callback và promise, Async/await.
